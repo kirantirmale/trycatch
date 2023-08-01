@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "sid",
+    "email": "malik_rajinder@lind.example",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "don",
+    "email": "malik_rajinder@lind.example",
+    "gender": "female",
+    "status": "active"
+  }
+]
